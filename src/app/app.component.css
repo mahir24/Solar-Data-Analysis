@@ -1,0 +1,8 @@
+.header {
+    width: 100%; /* Ensures the div takes the full width of its parent */
+    text-align: center;
+    margin: auto; /* Centers the block element horizontally */
+    padding: 20px 0;
+    font-size: 24px;
+    font-weight: bold;
+  }
